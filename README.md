@@ -7,16 +7,13 @@ I build AI-powered applications, backend systems, and data-driven tools.
 ## 🔧 Skills
 
 - Python
-- FastAPI                                                User
-- Machine Learning                                        |
-- LLM Applications                                        v
-- PostgreSQL                                         FastAPI Server
-- Docker                                                 |
-- Cloud Infrastructure                             ----------------
-                                                   |              |
-                                               LLM Model     Vector DB
-                                                   |
-                                               Documents
+- FastAPI                                                
+- Machine Learning                                      
+- LLM Applications                                        
+- PostgreSQL                                     
+- Docker                                          
+- Cloud Infrastructure                                                                       
+
 
 ## 🚀 Currently Doing
 
