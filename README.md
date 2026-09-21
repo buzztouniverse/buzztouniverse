@@ -18,11 +18,12 @@ I build AI-powered applications, backend systems, and data-driven tools.
                                                    |
                                                Documents
 
-## 🚀 Currently Building
+## 🚀 Currently Doing
 
 - AI automation tools
 - Backend APIs
 - Data processing pipelines
+- Also contributing available good AI-related projects
 
 ## 📌 Featured Projects
 Because of the past internal research I was disconnected to GitHub.
@@ -35,6 +36,5 @@ Because of the past internal research I was disconnected to GitHub.
 - Automated ETL workflows
 - Big Data processing
 
-## 📫 Contact
-
-Email: your@email.com
+### Contact
+harrisonhan0122@gmail.com
